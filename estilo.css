@@ -1,0 +1,35 @@
+body{
+
+}
+h1{
+    text-align: center;
+}
+itens {
+    font-style: italic
+   }
+   .beneficios {
+    background:cadetblue;
+    padding: 20px;
+   }
+
+   h2 {
+    text-align: center;
+
+   }
+.container{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+img{
+    height: 400px;
+    width: 400px;
+    align-items: center;
+}
+a{
+lighting-color: blue;
+}
+.btn-link{
+    border: 1px solid:forestgreen;
+
+}
